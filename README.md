@@ -23,4 +23,3 @@
 - **🌐 LinkedIn: [Diogo Sousa](https://www.linkedin.com/in/diogoarsousa/)**
 - **📷 Instagram: [@diiogoarsousa](https://www.instagram.com/diiogoarsousa/)**
 
-**_
