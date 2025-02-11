@@ -1,4 +1,4 @@
-# **_👋 Hi, I’m @diogoarsousa**  
+# **_👋 Hi, I’m @diiogoarsousa**  
 
 ## **_About Me_**  
 
