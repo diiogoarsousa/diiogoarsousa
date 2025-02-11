@@ -1,25 +1,27 @@
-# **_👋 Hi, I’m @diiogoarsousa_**
+# **_👋 Hi, I’m @diogoarsousa**  
 
-## **_About Me_**
+## **_About Me_**  
 
-- **🎓 I am currently studying Computer Engineering at ISEP (Instituto Superior de Engenharia do Porto).**
-- **👨‍💻 Aspiring Software Developer, with a keen interest in Java and Python programming languages.**
-- **💻 I enjoy developing software solutions and solving real-world problems through coding.**
-- **⚙️ I have a strong foundation in software development, algorithms, and data structures.**
-- **🏋️ In my free time, I love hitting the gym to stay fit and active.**
-- **⚽️ Football is my passion, and I never miss an opportunity to play the beautiful game.**
-- **🇵🇹 I served in the Portuguese Air Force for 7 years, which instilled discipline and teamwork in me.**
+- **🎓 I am currently pursuing a master's degree in Cybersecurity and Systems Administration.**  
+- **👨‍💻 Backend Developer with a passion for technology, security, and software development.**  
+- **💻 I enjoy solving complex problems, optimizing systems, and building high-quality software solutions.**  
+- **⚙️ Strong background in backend development, system administration, and cybersecurity.**  
+- **🏋️ I love going to the gym to stay active and focused.**  
+- **⚽️ Football enthusiast—I never miss a chance to play or watch a great match.**  
+- **🌍 Passionate about traveling, I have visited more than 15 countries and love exploring different cultures.**  
 
-## **_Interests_**
+## **_Interests_**  
 
-- **Software Development**
-- **Java Programming**
-- **Python Programming**
-- **Web Development**
+- **Backend Development**  
+- **Cybersecurity**  
+- **Java & Spring Boot**  
+- **Cloud Computing (AWS)**  
+- **System Administration**  
+- **Tech & Entrepreneurship**  
 
 ## **_Contact Me_**
 
-- **📧 Email: diogo97sousa@gmail.com**
+- **📧 Email: geral@diogoarsousa.pt**
 - **🌐 LinkedIn: [Diogo Sousa](https://www.linkedin.com/in/diogoarsousa/)**
-- **📷 Instagram: [@diiogoarsousa](https://www.instagram.com/diiogoarsousa/)**
+- **📷 Instagram: [@diiogoarsousa](https://www.instagram.com/diogoarsousa.pt/)**
 
